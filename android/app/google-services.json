@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "705807489965",
+    "project_id": "login-app-b7260",
+    "storage_bucket": "login-app-b7260.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705807489965:android:7f062aca074227434a9f24",
+        "android_client_info": {
+          "package_name": "com.example.tarea_login_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqJZv6Pi6nx4I5wBNgshBns-FTz6tYaXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
